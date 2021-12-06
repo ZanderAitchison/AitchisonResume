@@ -16,15 +16,11 @@ Economics & Data Science Student
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2018-2022`
+__Brigham Young University Idaho__, Rexburg, ID
 
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
-
-- 4.0 Major GPA
+- Full academic scholarship with 3.9 GPA
+- Major: Economics
 
 
 ## Related Experience
