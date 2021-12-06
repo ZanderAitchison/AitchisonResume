@@ -21,14 +21,15 @@ __Brigham Young University Idaho__, Rexburg, ID
 
 - Full academic scholarship with 3.9 GPA
 - Major: Economics
+- Minor: Data Science
 
 
 ## Related Experience
 
 ### Internships
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`May 2021 - Dec 2021`
+__Idaho National Lab__, Idaho Fall, ID
 
 - Worked on novel methods for soil sampling to reduce laboratory measurements
 - Used R and Visual Sample Plan to establish new sampling algorithms
@@ -70,11 +71,11 @@ __Pinnacle Management Group__,
 ## Service and Work History
 
 `2025-2027`
-__Math Tutor__, LDSBC
+__Math Tutor/Teacher Assistant__, BYUI
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+`2015-2017`
+__Service Missionary__, Las Vegas. NV
 
 
 
