@@ -6,10 +6,10 @@ title: Zander Aitchison's Resume
 Economics & Data Science Student 
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="zanderaitchison@hotmail.co.uk">zanderaitchison@hotmail.co.uk</a>
+| <a href="">801-603-9834</a>
+| <a href="www.linkedin.com/in/zander-aitchison">LinkedIn</a>
+| <a href="https://github.com/ZanderAitchison">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
@@ -19,58 +19,58 @@ Economics & Data Science Student
 `2018-2022`
 __Brigham Young University Idaho__, Rexburg, ID
 
-- Full academic scholarship with 3.9 GPA
+- Full academic scholarship with 3.9/4.0 GPA
 - Major: Economics
 - Minor: Data Science
 
 
 ## Related Experience
 
-### Internships
+### Internship
 
-`May 2021 - Dec 2021`
+`May 2021 - Present`
 __Idaho National Lab__, Idaho Fall, ID
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Created web pages for several different departments in general accounting which improved the invoice process.
+- Evaluated A-123 internal controls across the business management department proving risks have been reviewed and managed.
+- Created data reports using PowerBI for management.
+- Collaborated with coworkers to create and update training guides for new hires.
 
-### Data Science Lead
+### Technical skills
+R-Studio (Intermediate), Python (Proficient), Harvard Business Spreadsheet Certificate, PowerBI (Proficient), SQL (Proficient), Bloomberg Market Concepts Certification.
+Intermediate Micro – Optimization, Econ 278 – Statistics, Quantitative Methods (derivates, integrals, matrices), Econ 388/Math 425 – Regression Analysis, Financial Accounting.
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+## Work Experience
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+`2014 - 2019 Seasonal`
+__HI5 Corporate Events__, Event Facilitator 
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+- Managed corporate events for S&P 500 firms, including Pepsico, Huawei, Motorola; groups ranged from 6-200 people.
+- Collaborated closely with the client’s coordinators to promote effective team building.
+- Managed a small team, to facilitate team-building events to companies, with groups sizing from 6-30 people
+- Trained new employees and worked effectively with a team to facilitate corporate events.
+- Effectively communicated with large groups and client team leaders to orchestrate events and specific activities.
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+`October 2017 - February 2018`
+__RQA-Group__, Researcher
 
-### Data Science Consulting Team
+- Estimated the empirical relationship between product recalls and a company’s stock price; found that transparency led to small changes in stock prices and faster recoveries compared to companies who hid the news from the public.
+- Presented my research findings to the managing director, the results were published by RQA which brought in new clients.
+- Utilized Microsoft Excel to present stock price data, I was able to show trends to my managing director who published an article which created critical discussions leading to future work for the company.
+- Collected data from multiple finance websites to create graphs showing trends in Excel.
+- Created draft cost estimates for work contracts across the EU to predict what contracts to bid for.
 
 `January 2027 - April 2027`
-__Imagine Learning__
+__HCL__, Games tester; Microsoft
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Ran test cases to search for bugs and errors for the Xbox One platform.
+- Wrote bugs and reproduction steps for game producers which prepared games for public sale.
+- Worked effectively in teams of 4 -12 to accomplish error identification projects.
 
 
-## Service and Work History
+### Service and Work History
 
-`2025-2027`
+`2019-2021`
 __Math Tutor/Teacher Assistant__, BYUI
 
 
